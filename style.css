@@ -10,8 +10,8 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #f16fa1;
-    background-image: linear-gradient(83deg, #8b55f5, #f16fa1);
+/*     background-color: #f16fa1; */
+/*     background-image: linear-gradient(83deg, #8b55f5, #f16fa1); */
 }
 
 .container {
